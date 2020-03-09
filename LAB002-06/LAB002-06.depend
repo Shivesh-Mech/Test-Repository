@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583548109 source:c:\users\shivesh\documents\newcastle university\engg1003\lab002-06\main.c
+	<stdio.h>
+	<stdlib.h>
+
